@@ -1,1 +1,3 @@
-p
+print("you get 7 tries to guess the correct number") 
+correct answer = random.randint(1, 100)
+guess = int(input(1, 100)
